@@ -1,4 +1,5 @@
 ## Shopping List [Version-1]
+
 #Objective
 - Create a simple web page with a shopping list display.
 - Create an input box to enter the name of items.
