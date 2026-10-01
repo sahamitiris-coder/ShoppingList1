@@ -1,5 +1,5 @@
 ## Shopping List [Version-1]
-
+A dynamic shopping list with a basic UI to add, delete and edit items in a list.
 ## Objective
 - Create a simple web page with a shopping list display.
 - Create an input box to enter the name of items.
